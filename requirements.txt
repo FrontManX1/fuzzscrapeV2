@@ -1,0 +1,9 @@
+aiohttp
+colorama
+bs4
+pyfiglet
+halo==0.0.31
+cryptography==39.0.1
+requests
+urllib3
+waybackpy==3.0.6
