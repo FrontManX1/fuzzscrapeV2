@@ -1,9 +1,0 @@
-aiohttp
-colorama
-bs4
-pyfiglet
-halo
-cryptography
-requests
-urllib3
-waybackpy
