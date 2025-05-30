@@ -1,6 +1,9 @@
 aiohttp
 colorama
+bs4
 pyfiglet
-requests
 halo
+cryptography
+requests
+urllib3
 waybackpy
