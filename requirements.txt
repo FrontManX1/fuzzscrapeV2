@@ -1,0 +1,6 @@
+aiohttp
+colorama
+pyfiglet
+requests
+halo
+waybackpy
