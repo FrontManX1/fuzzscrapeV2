@@ -29,4 +29,4 @@ git clone https://github.com/FrontManX1/fuzzscrapeV2.git
 cd fuzzscrapeV2
 chmod +x install.sh
 ./install.sh
-python3 fuzzscrape_v4_final.py --help
+python3 fuzzscrape.py --help
